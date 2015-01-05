@@ -1,0 +1,15 @@
+{
+  "name": "midi-lifx",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "lifx": "git+ssh://git@github.com:sonicsnes/lifxjs.git",
+    "socket.io-client": "~1.2.1"
+  }
+}
