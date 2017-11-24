@@ -9,7 +9,7 @@
   "author": "",
   "license": "BSD-2-Clause",
   "dependencies": {
-    "lifx": "git+ssh://git@github.com:sonicsnes/lifxjs.git",
+    "node-lifx": "^0.8.0",
     "socket.io-client": "~1.2.1"
   }
 }
